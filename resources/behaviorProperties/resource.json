@@ -1,0 +1,141 @@
+{
+  "behaviors": {
+    "LevelBehavior": {
+      "scriptId": "18",
+      "line": 2,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "PlayerBehavior": {
+      "scriptId": "15",
+      "line": 6,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "lastVelocity",
+          "type": "Sup.Math.Vector2"
+        },
+        {
+          "name": "movement",
+          "type": "number"
+        },
+        {
+          "name": "perfectPosition",
+          "type": "Sup.Math.Vector3"
+        },
+        {
+          "name": "movingTime",
+          "type": "number"
+        },
+        {
+          "name": "timeReloading",
+          "type": "number"
+        },
+        {
+          "name": "maxTimeReloading",
+          "type": "number"
+        }
+      ]
+    },
+    "EnemyBehavior": {
+      "scriptId": "22",
+      "line": 5,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "lastVelocity",
+          "type": "Sup.Math.Vector2"
+        },
+        {
+          "name": "movement",
+          "type": "number"
+        },
+        {
+          "name": "direction",
+          "type": "any"
+        },
+        {
+          "name": "lifes",
+          "type": "number"
+        },
+        {
+          "name": "movingTime",
+          "type": "number"
+        },
+        {
+          "name": "maxMovingTime",
+          "type": "number"
+        }
+      ]
+    },
+    "BulletBehavior": {
+      "scriptId": "26",
+      "line": 6,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "movement",
+          "type": "boolean"
+        },
+        {
+          "name": "timeToHit",
+          "type": "number"
+        },
+        {
+          "name": "lastVelocity",
+          "type": "Sup.Math.Vector2"
+        },
+        {
+          "name": "direction",
+          "type": "any"
+        }
+      ]
+    },
+    "BacklogBehavior": {
+      "scriptId": "77",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "selectedOption",
+          "type": "number"
+        }
+      ]
+    },
+    "TimerBehavior": {
+      "scriptId": "86",
+      "line": 3,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "CityBehavior": {
+      "scriptId": "95",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "indexText",
+          "type": "number"
+        }
+      ]
+    },
+    "PlayerSceneBehavior": {
+      "scriptId": "99",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}

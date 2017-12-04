@@ -1,0 +1,37 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "wrapping": "clampToEdge",
+  "pixelsPerUnit": 16,
+  "framesPerSecond": 10,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "columns",
+  "grid": {
+    "width": 16,
+    "height": 16
+  },
+  "origin": {
+    "x": 0,
+    "y": 0
+  },
+  "animations": [
+    {
+      "id": "0",
+      "name": "Move",
+      "startFrameIndex": 8,
+      "endFrameIndex": 15,
+      "speed": 0.9
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  }
+}
