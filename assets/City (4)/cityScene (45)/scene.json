@@ -83,8 +83,8 @@
             }
           ],
           "position": {
-            "x": 1.125,
-            "y": 0.4399999976158142,
+            "x": 0.6246076077222824,
+            "y": 0.39290426671504974,
             "z": 1
           },
           "orientation": {
@@ -124,8 +124,8 @@
             }
           ],
           "position": {
-            "x": 3.2129122614860535,
-            "y": 3.4825742691755295,
+            "x": 2.565345346927643,
+            "y": 3.4825740307569504,
             "z": 1
           },
           "orientation": {
@@ -135,8 +135,8 @@
             "w": 1
           },
           "scale": {
-            "x": 1.25,
-            "y": 2,
+            "x": 1,
+            "y": 1.8,
             "z": 1
           },
           "visible": true,
@@ -165,8 +165,8 @@
             }
           ],
           "position": {
-            "x": 15.546113729476929,
-            "y": 1.5045527666807175,
+            "x": 15.36950397491455,
+            "y": 1.504552885890007,
             "z": 1
           },
           "orientation": {
@@ -181,6 +181,47 @@
             "z": 1
           },
           "visible": false,
+          "layer": 0,
+          "prefab": null
+        },
+        {
+          "id": "27",
+          "name": "Enter",
+          "children": [],
+          "components": [
+            {
+              "type": "TextRenderer",
+              "config": {
+                "formatVersion": 2,
+                "fontAssetId": "64",
+                "text": "<Enter>",
+                "alignment": "left",
+                "verticalAlignment": "top",
+                "size": null,
+                "color": null,
+                "overrideOpacity": false,
+                "opacity": null
+              },
+              "id": "0"
+            }
+          ],
+          "position": {
+            "x": 16.845001459121704,
+            "y": 1.538547083735466,
+            "z": 1
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "scale": {
+            "x": 1.25,
+            "y": 2,
+            "z": 1
+          },
+          "visible": true,
           "layer": 0,
           "prefab": null
         }

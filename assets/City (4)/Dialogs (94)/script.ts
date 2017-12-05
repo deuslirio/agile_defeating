@@ -31,8 +31,6 @@ namespace Dialogs{
     1:{face:"3",text:"E ai como foi? teve algum\nproblema?"},
     2:{face:"1",text:"Infelizmente não consegui fazer\ntudo antes de anoitecer. =("},
     3:{face:"2",text:"Oh, não têm problema, tente novamente."},
-    4:{face:"3",text:"Nós podemos usar no máximo\n10 Sprints, acima disso teremos\nfracassado no projeto."},
-    5:{face:"3",text:"Você quer deixar essa tarefa\npara o próximo Sprint?",option:true},
   }
   
   export var dialogSucess2={

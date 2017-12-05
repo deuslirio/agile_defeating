@@ -15,7 +15,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 2,
+        enemyLifes: 1,
         damage: 30
     };
 
@@ -35,7 +35,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 2,
+        enemyLifes: 1,
         damage: 30
     };
 
@@ -55,7 +55,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 2,
+        enemyLifes: 1,
         damage: 30
     };
 
@@ -75,7 +75,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 2,
+        enemyLifes: 1,
         damage: 30
     };
 
@@ -95,7 +95,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 2,
+        enemyLifes: 1,
         damage: 30
     };
 
@@ -116,7 +116,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 2,
+        enemyLifes: 1,
         damage: 30
     };
 
@@ -137,7 +137,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 2,
+        enemyLifes: 1,
         damage: 30
     };
     export var Level3_2 = {
@@ -156,7 +156,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 3,
+        enemyLifes: 1,
         damage: 30
     };
 
@@ -176,7 +176,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 3,
+        enemyLifes: 1,
         damage: 30
     };
    export var Level4_1 = {
@@ -195,7 +195,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 3,
+        enemyLifes: 1,
         damage: 30
     };
     export var Level4_2 = {
@@ -214,7 +214,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 3,
+        enemyLifes: 1,
         damage: 30
     };
     export var Level4_3 = {
@@ -233,7 +233,7 @@ namespace Level {
         },
         enemyPosition: { x: 7, y: 5 },
         enemySpeed: 0.08,
-        enemyLifes: 3,
+        enemyLifes: 1,
         damage: 30
     };
 

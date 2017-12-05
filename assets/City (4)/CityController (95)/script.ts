@@ -64,7 +64,9 @@ class CityBehavior extends Sup.Behavior {
         Sup.getActor("Text").textRenderer.setText(Dialogs["dialog"+Dialogs.state+listLevels[levelCount]][this.indexText].text);
         
       if(Dialogs["dialog"+Dialogs.state+listLevels[levelCount]][this.indexText].option){
-         Sup.getActor("Options").setVisible(true);
+         Sup.getActor("Enter").setVisible(false); 
+        Sup.getActor("Options").setVisible(true);
+
         }
         
     }else{
