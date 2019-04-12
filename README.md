@@ -1,4 +1,5 @@
 Find me at: https://github.com/deuslirio/agile_defeating.git
+Play at:https://deuslirio.github.io/agile_defeating/
 ## Agile Defeating
 ### This game was made with Superpowers http://superpowers-html5.com/index.en.html
 ### All assets used and more: https://github.com/sparklinlabs/superpowers-asset-packs
