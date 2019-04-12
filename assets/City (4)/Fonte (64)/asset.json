@@ -1,0 +1,14 @@
+{
+  "formatVersion": 2,
+  "isBitmap": false,
+  "filtering": "pixelated",
+  "pixelsPerUnit": 115,
+  "size": 53,
+  "color": "161616",
+  "opacity": null,
+  "gridWidth": 8,
+  "gridHeight": 8,
+  "charset": null,
+  "charsetOffset": 32,
+  "name": "Font64"
+}

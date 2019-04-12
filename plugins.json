@@ -1,0 +1,51 @@
+{
+  "list": [
+    "common/documentation",
+    "common/home",
+    "common/settings",
+    "common/textEditorWidget",
+    "common/three",
+    "default/arcadePhysics2D",
+    "default/cubicModel",
+    "default/font",
+    "default/gameSettings",
+    "default/light",
+    "default/model",
+    "default/onlineDocumentation",
+    "default/projectSettings",
+    "default/scene",
+    "default/shader",
+    "default/sound",
+    "default/sprite",
+    "default/tileMap",
+    "default/transformHelpers",
+    "default/typescript",
+    "extra/cannonjs",
+    "extra/eventEmitter",
+    "extra/p2js",
+    "extra/rngjs",
+    "extra/socketio",
+    "extra/tweenjs"
+  ],
+  "paths": {
+    "editors": {
+      "cubicModel": "default/cubicModel",
+      "font": "default/font",
+      "model": "default/model",
+      "scene": "default/scene",
+      "shader": "default/shader",
+      "sound": "default/sound",
+      "sprite": "default/sprite",
+      "tileMap": "default/tileMap",
+      "tileSet": "default/tileMap",
+      "script": "default/typescript"
+    },
+    "tools": {
+      "documentation": "common/documentation",
+      "main": "common/home",
+      "settings": "common/settings",
+      "apiBrowser": "default/typescript",
+      "search": "default/typescript"
+    }
+  }
+}

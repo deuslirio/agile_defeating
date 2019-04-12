@@ -1,0 +1,410 @@
+{
+  "name": "Agile Defeating",
+  "assets": [
+    {
+      "id": "3",
+      "name": "Menu",
+      "type": null,
+      "children": [
+        {
+          "id": "87",
+          "name": "pauseScene",
+          "type": "scene"
+        },
+        {
+          "id": "100",
+          "name": "DarkBackground",
+          "type": "sprite"
+        },
+        {
+          "id": "91",
+          "name": "Buttons",
+          "type": "sprite"
+        },
+        {
+          "id": "92",
+          "name": "Board",
+          "type": "tileMap"
+        },
+        {
+          "id": "102",
+          "name": "SelectPlayerInstructions",
+          "type": "tileMap"
+        },
+        {
+          "id": "93",
+          "name": "BoardData",
+          "type": "script"
+        },
+        {
+          "id": "97",
+          "name": "playerScene",
+          "type": "scene"
+        },
+        {
+          "id": "107",
+          "name": "playerScene3",
+          "type": "scene"
+        },
+        {
+          "id": "106",
+          "name": "playerScene2",
+          "type": "scene"
+        },
+        {
+          "id": "99",
+          "name": "PlayerSceneController",
+          "type": "script"
+        },
+        {
+          "id": "101",
+          "name": "Jobs",
+          "type": "sprite"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "City",
+      "type": null,
+      "children": [
+        {
+          "id": "64",
+          "name": "Fonte",
+          "type": "font"
+        },
+        {
+          "id": "31",
+          "name": "DialogBox",
+          "type": "sprite"
+        },
+        {
+          "id": "45",
+          "name": "cityScene",
+          "type": "scene"
+        },
+        {
+          "id": "37",
+          "name": "Farm",
+          "type": null,
+          "children": [
+            {
+              "id": "41",
+              "name": "Farm0",
+              "type": "tileMap"
+            },
+            {
+              "id": "42",
+              "name": "Farm1",
+              "type": "tileMap"
+            },
+            {
+              "id": "43",
+              "name": "Farm2",
+              "type": "tileMap"
+            },
+            {
+              "id": "44",
+              "name": "Farm3",
+              "type": "tileMap"
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "name": "Structure",
+          "type": null,
+          "children": [
+            {
+              "id": "46",
+              "name": "Structure0",
+              "type": "tileMap"
+            },
+            {
+              "id": "48",
+              "name": "Structure1",
+              "type": "tileMap"
+            },
+            {
+              "id": "49",
+              "name": "Structure2",
+              "type": "tileMap"
+            },
+            {
+              "id": "50",
+              "name": "Structure3",
+              "type": "tileMap"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "name": "Environment",
+          "type": null,
+          "children": [
+            {
+              "id": "51",
+              "name": "Environment0",
+              "type": "tileMap"
+            },
+            {
+              "id": "56",
+              "name": "Environment1",
+              "type": "tileMap"
+            },
+            {
+              "id": "57",
+              "name": "Environment2",
+              "type": "tileMap"
+            },
+            {
+              "id": "58",
+              "name": "Environment3",
+              "type": "tileMap"
+            },
+            {
+              "id": "53",
+              "name": "Waterfall",
+              "type": "sprite"
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "name": "Ocupation",
+          "type": null,
+          "children": [
+            {
+              "id": "60",
+              "name": "Ocupation0",
+              "type": "tileMap"
+            },
+            {
+              "id": "61",
+              "name": "Ocupation1",
+              "type": "tileMap"
+            },
+            {
+              "id": "62",
+              "name": "Ocupation2",
+              "type": "tileMap"
+            },
+            {
+              "id": "63",
+              "name": "Ocupation3",
+              "type": "tileMap"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "name": "charhead",
+          "type": "sprite"
+        },
+        {
+          "id": "94",
+          "name": "Dialogs",
+          "type": "script"
+        },
+        {
+          "id": "95",
+          "name": "CityController",
+          "type": "script"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Game",
+      "type": null,
+      "children": [
+        {
+          "id": "6",
+          "name": "Sprites",
+          "type": null,
+          "children": [
+            {
+              "id": "13",
+              "name": "Char1",
+              "type": "sprite"
+            },
+            {
+              "id": "28",
+              "name": "Char2",
+              "type": "sprite"
+            },
+            {
+              "id": "35",
+              "name": "Char3",
+              "type": "sprite"
+            },
+            {
+              "id": "36",
+              "name": "Char4",
+              "type": "sprite"
+            },
+            {
+              "id": "96",
+              "name": "Char5",
+              "type": "sprite"
+            },
+            {
+              "id": "21",
+              "name": "Enemy1",
+              "type": "sprite"
+            },
+            {
+              "id": "75",
+              "name": "Enemy2",
+              "type": "sprite"
+            },
+            {
+              "id": "76",
+              "name": "Enemy3",
+              "type": "sprite"
+            },
+            {
+              "id": "25",
+              "name": "Bullet",
+              "type": "sprite"
+            },
+            {
+              "id": "85",
+              "name": "Timer",
+              "type": "sprite"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "name": "Maps",
+          "type": null,
+          "children": [
+            {
+              "id": "10",
+              "name": "Tile Set",
+              "type": "tileSet"
+            },
+            {
+              "id": "66",
+              "name": "Level1_1",
+              "type": "tileMap"
+            },
+            {
+              "id": "69",
+              "name": "Level1_2",
+              "type": "tileMap"
+            },
+            {
+              "id": "70",
+              "name": "Level1_3",
+              "type": "tileMap"
+            },
+            {
+              "id": "72",
+              "name": "Level2_1",
+              "type": "tileMap"
+            },
+            {
+              "id": "73",
+              "name": "Level2_2",
+              "type": "tileMap"
+            },
+            {
+              "id": "74",
+              "name": "Level2_3",
+              "type": "tileMap"
+            },
+            {
+              "id": "78",
+              "name": "Level3_1",
+              "type": "tileMap"
+            },
+            {
+              "id": "79",
+              "name": "Level3_2",
+              "type": "tileMap"
+            },
+            {
+              "id": "81",
+              "name": "Level3_3",
+              "type": "tileMap"
+            },
+            {
+              "id": "108",
+              "name": "Level4_1",
+              "type": "tileMap"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "name": "Scripts",
+          "type": null,
+          "children": [
+            {
+              "id": "15",
+              "name": "PlayerController",
+              "type": "script"
+            },
+            {
+              "id": "22",
+              "name": "EnemyController",
+              "type": "script"
+            },
+            {
+              "id": "26",
+              "name": "BulletController",
+              "type": "script"
+            },
+            {
+              "id": "18",
+              "name": "LevelController",
+              "type": "script"
+            },
+            {
+              "id": "68",
+              "name": "LevelsInformation",
+              "type": "script"
+            },
+            {
+              "id": "77",
+              "name": "BackLogController",
+              "type": "script"
+            },
+            {
+              "id": "86",
+              "name": "TimerController",
+              "type": "script"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "name": "gameScene",
+          "type": "scene"
+        },
+        {
+          "id": "23",
+          "name": "enemyScene",
+          "type": "scene"
+        },
+        {
+          "id": "27",
+          "name": "bulletScene",
+          "type": "scene"
+        },
+        {
+          "id": "17",
+          "name": "Main",
+          "type": "script"
+        },
+        {
+          "id": "82",
+          "name": "HUD",
+          "type": "tileMap"
+        }
+      ]
+    }
+  ]
+}

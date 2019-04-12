@@ -1,0 +1,170 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "wrapping": "clampToEdge",
+  "pixelsPerUnit": 16,
+  "framesPerSecond": 10,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "rows",
+  "grid": {
+    "width": 257,
+    "height": 72
+  },
+  "origin": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "animations": [
+    {
+      "id": "0",
+      "name": "Sprint1Enabled",
+      "startFrameIndex": 0,
+      "endFrameIndex": 0,
+      "speed": 1
+    },
+    {
+      "id": "1",
+      "name": "Sprint1Disabled",
+      "startFrameIndex": 1,
+      "endFrameIndex": 1,
+      "speed": 1
+    },
+    {
+      "id": "2",
+      "name": "Sprint2Enabled",
+      "startFrameIndex": 2,
+      "endFrameIndex": 2,
+      "speed": 1
+    },
+    {
+      "id": "3",
+      "name": "Sprint2Disabled",
+      "startFrameIndex": 3,
+      "endFrameIndex": 3,
+      "speed": 1
+    },
+    {
+      "id": "4",
+      "name": "Sprint3Enabled",
+      "startFrameIndex": 4,
+      "endFrameIndex": 4,
+      "speed": 1
+    },
+    {
+      "id": "12",
+      "name": "Sprint3Disabled",
+      "startFrameIndex": 5,
+      "endFrameIndex": 5,
+      "speed": 1
+    },
+    {
+      "id": "5",
+      "name": "Sprint4Enabled",
+      "startFrameIndex": 6,
+      "endFrameIndex": 6,
+      "speed": 1
+    },
+    {
+      "id": "6",
+      "name": "Sprint5Enabled",
+      "startFrameIndex": 8,
+      "endFrameIndex": 8,
+      "speed": 1
+    },
+    {
+      "id": "7",
+      "name": "Sprint6Enabled",
+      "startFrameIndex": 10,
+      "endFrameIndex": 10,
+      "speed": 1
+    },
+    {
+      "id": "8",
+      "name": "Sprint7Enabled",
+      "startFrameIndex": 12,
+      "endFrameIndex": 12,
+      "speed": 1
+    },
+    {
+      "id": "9",
+      "name": "Sprint8Enabled",
+      "startFrameIndex": 14,
+      "endFrameIndex": 14,
+      "speed": 1
+    },
+    {
+      "id": "10",
+      "name": "Sprint9Enabled",
+      "startFrameIndex": 16,
+      "endFrameIndex": 16,
+      "speed": 1
+    },
+    {
+      "id": "11",
+      "name": "Sprint10Enabled",
+      "startFrameIndex": 18,
+      "endFrameIndex": 18,
+      "speed": 1
+    },
+    {
+      "id": "13",
+      "name": "Sprint4Disabled",
+      "startFrameIndex": 7,
+      "endFrameIndex": 7,
+      "speed": 1
+    },
+    {
+      "id": "14",
+      "name": "Sprint5Disabled",
+      "startFrameIndex": 9,
+      "endFrameIndex": 9,
+      "speed": 1
+    },
+    {
+      "id": "15",
+      "name": "Sprint6Disabled",
+      "startFrameIndex": 11,
+      "endFrameIndex": 11,
+      "speed": 1
+    },
+    {
+      "id": "16",
+      "name": "Sprint7Disabled",
+      "startFrameIndex": 13,
+      "endFrameIndex": 13,
+      "speed": 1
+    },
+    {
+      "id": "17",
+      "name": "Sprint8Disabled",
+      "startFrameIndex": 15,
+      "endFrameIndex": 15,
+      "speed": 1
+    },
+    {
+      "id": "18",
+      "name": "Sprint9Disabled",
+      "startFrameIndex": 17,
+      "endFrameIndex": 17,
+      "speed": 1
+    },
+    {
+      "id": "19",
+      "name": "Sprint10Disabled",
+      "startFrameIndex": 19,
+      "endFrameIndex": 19,
+      "speed": 1
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  }
+}
